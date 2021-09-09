@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header.style-header {
+	background: #008000;
+}
+
+header.style-header p {
+	font-size: 17px;
+}
+
+footer.style-footer {
+	background: #008000;
+}
+
+footer.style-footer p {
+	font-size: 17px;
+}
+
+body {
+	background: #fff;
+}
+
+.block-body {
+	width: 550px;
+	background: #0000ff;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block-body .box {
+	height: 100px;
+	width: 100px;
+	border-radius: 15px 0px 15px 0px;
+	background: #0000ff;
+	margin-top: 27px;
+	margin-left: 27px;
+	border: 5px solid white;
+	float: left;
+	margin-right: 21px;
+}
+
+.block-body p {
+	color: #fff;
+	font-size: 20px;
+	padding-top: 30px;
+	padding-left: 27px;
+}
+
+.block-body a {
+	font-size: 20px;
+	color: red;
+	display: block;  
+	text-align:center;
+}
+
+.block-body .name h1 {
+	padding-top: 27px;
+	padding-left: 27px;
+	font-size: 26px;
+	color: #fff;
+}
+
+.block-body h1 span {
+	color: red;
+}
+.block-body h1 {
+	color: white;
+	padding-left: 27px;
+}
+
+.block-body h3 {
+	color: #fff;
+	padding-left: 27px;
+
+
+}
+
+.block-body ul {
+	padding-left: 60px;
+	color: white;
+	font-size: 20px;
+}
+
+.block-body ul .redline {
+	color: red;
+	letter-spacing: 3px;
+}
+
+.block-body .textstyles {
+	padding-bottom: 20px;
+}
+
+.block-body .textstyles p{
+	font-size: 20px;
+}
+
+.block-body .textstyles p.italic{
+	font-style: italic;
+}
+
+.block-body .textstyles p.bold{
+	font-weight: bolder;
+
+}
+
+.block-body .textstyles p.underlined{
+	text-decoration: underline;
+}
+
+.block-body .textstyles p.linethrough{
+	text-decoration: line-through;
+}
+
+.text p {
+	color: #fff;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	font-size: 11px;
+	text-align: center;
+}
+
+.block-body table {
+	float: right;
+	border: 1px solid #fff;
+	width: 146px;
+	height: 116px;
+	margin-right: 25px;
+}
+
+
+.block-body img {
+	clear:both;
+	float: right;
+	margin-right: 25px;
+	margin-top: 12px;
+}
+
+.block-body td {
+	border: 1px solid #fff;
+	color: #fff;
+	text-align: center;
+	vertical-align: bottom;
+	font-size: 20px;
+}
